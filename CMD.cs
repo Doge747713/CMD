@@ -81,7 +81,7 @@ namespace SystemScanner
         static void DisplayMenu()
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("====== MENU ==========");
+            Console.WriteLine("====== SYSTEM TEST MENU ==========");
             Console.ResetColor();
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("[1] View CPU Info");
